@@ -19,6 +19,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 39 | [Combination Sum](./Array/Combination%20Sum/) | Medium |
+| 40 | [Combination Sum II](./Array/Combination%20Sum%20II/) | Medium |
 
 </details>
 
