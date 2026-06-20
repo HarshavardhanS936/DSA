@@ -23,6 +23,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Hash Table
+<details>
+<summary>Click to expand Hash Table problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 160 | [Intersection of Two Linked Lists](./Hash%20Table/Intersection%20of%20Two%20Linked%20Lists/) | Easy |
+
+</details>
+
+
 ### Linked List
 <details>
 <summary>Click to expand Linked List problems</summary>
