@@ -23,6 +23,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### String
+<details>
+<summary>Click to expand String problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 22 | [Generate Parentheses](./String/Generate%20Parentheses/) | Medium |
+
+</details>
+
+
 <p align="center">
 Building Technical Excellence Through Consistent Problem Solving.
 </p>
