@@ -1,0 +1,18 @@
+        if(target==0){
+        return ans;
+    }
+    public static void sub(int index,int nums[],int target,List<List<Integer>> ans,List<Integer> temp){
+        sub(0,nums,target,ans,new ArrayList<>());
+            ans.add(new ArrayList<>(temp));
+            return;
+        }
+        Arrays.sort(nums);
+        List<List<Integer>> ans=new ArrayList<>();
+        if(target<0)return;
+        for(int i=index;i<nums.length;i++){
+            temp.add(nums[i]);
+            sub(i+1,nums,target-nums[i],ans,temp);
+            temp.remove(temp.size()-1);
+        }
+            if(nums[i]>target) break;
+            if(i>index&&nums[i]==nums[i-1])continue;

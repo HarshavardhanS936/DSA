@@ -5,46 +5,68 @@
 
 ## Problem Statement
 
-<p>Given a collection of candidate numbers (<code>candidates</code>) and a target number (<code>target</code>), find all unique combinations in <code>candidates</code>&nbsp;where the candidate numbers sum to <code>target</code>.</p>
+Given a collection of candidate numbers (candidates) and a target number (target), find all unique combinations in candidates where the candidate numbers sum to target.
 
-<p>Each number in <code>candidates</code>&nbsp;may only be used <strong>once</strong> in the combination.</p>
+Each number in candidates may only be used once in the combination.
 
-<p><strong>Note:</strong>&nbsp;The solution set must not contain duplicate combinations.</p>
+Note: The solution set must not contain duplicate combinations.
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+ 
+Example 1:
 
-<pre>
-<strong>Input:</strong> candidates = [10,1,2,7,6,1,5], target = 8
-<strong>Output:</strong> 
+Input: candidates = [10,1,2,7,6,1,5], target = 8
+Output: 
 [
 [1,1,6],
 [1,2,5],
 [1,7],
 [2,6]
 ]
-</pre>
 
-<p><strong class="example">Example 2:</strong></p>
 
-<pre>
-<strong>Input:</strong> candidates = [2,5,2,1,2], target = 5
-<strong>Output:</strong> 
+Example 2:
+
+Input: candidates = [2,5,2,1,2], target = 5
+Output: 
 [
 [1,2,2],
 [5]
 ]
-</pre>
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
 
-<ul>
-	<li><code>1 &lt;=&nbsp;candidates.length &lt;= 100</code></li>
-	<li><code>1 &lt;=&nbsp;candidates[i] &lt;= 50</code></li>
-	<li><code>1 &lt;= target &lt;= 30</code></li>
-</ul>
+ 
+Constraints:
 
+
+	1 <= candidates.length <= 100
+	1 <= candidates[i] <= 50
+	1 <= target <= 30
+
+## Examples
+
+```
+Input: candidates = [10,1,2,7,6,1,5], target = 8
+Output: 
+[
+[1,1,6],
+[1,2,5],
+[1,7],
+[2,6]
+]
+
+Input: candidates = [2,5,2,1,2], target = 5
+Output: 
+[
+[1,2,2],
+[5]
+]
+```
+
+## Constraints
+
+- 1 <= candidates.length <= 100
+- 1 <= candidates[i] <= 50
+- 1 <= target <= 30
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
