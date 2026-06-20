@@ -29,7 +29,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 2 | [Add Two Numbers](./Linked%20List/Add%20Two%20Numbers/) | Medium |
+| 2 | [Add Two Numbers](./Linked%20List/Add%20Two%20Numbers/) | Easy |
 
 </details>
 
