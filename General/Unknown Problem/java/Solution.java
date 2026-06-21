@@ -3,12 +3,18 @@
 3 * public class ListNode {
 4 *     int val;
 5 *     ListNode next;
-6 *     ListNode(int x) { val = x; }
-7 * }
-8 */
-9class Solution {
-10    public void deleteNode(ListNode node) {
-11        node.val = node.next.val;
-12        node.next = node.next.next;
-13    }
-14}
+6 *     ListNode() {}
+7 *     ListNode(int val) { this.val = val; }
+8 *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+9 * }
+10 */
+11class Solution {
+12    public ListNode deleteDuplicates(ListNode head) {
+13        ListNode res=head;
+14        while (head!=null && head.next!=null){
+15            if(head.val==head.next.val)head.next=head.next.next;
+16            else head=head.next;
+17        }
+18        return res;
+19    }
+20}
