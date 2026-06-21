@@ -33,7 +33,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| — | [Dota2 Senate](./General/Dota2%20Senate/) | Medium |
+| — | [Unknown Problem](./General/Unknown%20Problem/) | Medium |
 
 </details>
 
