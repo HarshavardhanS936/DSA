@@ -33,7 +33,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| — | [Subsets](./General/Subsets/) | Medium |
+| — | [Dota2 Senate](./General/Dota2%20Senate/) | Medium |
 
 </details>
 
