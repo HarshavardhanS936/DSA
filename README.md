@@ -21,7 +21,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 39 | [Combination Sum](./Array/Combination%20Sum/) | Medium |
 | 40 | [Combination Sum II](./Array/Combination%20Sum%20II/) | Medium |
 | 46 | [Permutations](./Array/Permutations/) | Medium |
-| 51 | [N-Queens](./Array/N-Queens/) | Hard |
+| 51 | [N-Queens](./Array/N-Queens/) | Easy |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
 
