@@ -34,7 +34,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| — | [Maximum Average Subarray I](./General/Maximum%20Average%20Subarray%20I/) | Medium |
+| — | [Binary Tree Level Order Traversal](./General/Binary%20Tree%20Level%20Order%20Traversal/) | Medium |
 
 </details>
 
