@@ -34,7 +34,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| — | [Unknown Problem](./General/Unknown%20Problem/) | Medium |
+| — | [N](./General/N/) | Medium |
 
 </details>
 
