@@ -14,13 +14,15 @@
  * }
  */
 class Solution {
-    public boolean isValidBST(TreeNode root) {
+    TreeNode pre=null;
+    public boolean inOrder(TreeNode root){
         if(root==null)return true;
-        boolean d=false;
-        if(root.left!=null && root.left.val<root.val)d=true;
-        isValidBST(root.left);
-        if(root.right!=null && root.right.val>=root.val)d=true;
-        isValidBST(root.right);
-        return d;
+        if(!inOrder(root.left))return false;
+        if(pre!=null && root.val<=pre.val) return false;
+        pre=root;
+        return inOrder(root.right);
+    }
+    public boolean isValidBST(TreeNode root) {
+        return inOrder(root);
     }
 }
