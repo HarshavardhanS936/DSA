@@ -83,6 +83,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 102 | [Binary Tree Level Order Traversal](./Tree/Binary%20Tree%20Level%20Order%20Traversal/) | Medium |
 | 104 | [Maximum Depth of Binary Tree](./Tree/Maximum%20Depth%20of%20Binary%20Tree/) | Easy |
 | 111 | [Minimum Depth of Binary Tree](./Tree/Minimum%20Depth%20of%20Binary%20Tree/) | Easy |
+| 543 | [Diameter of Binary Tree](./Tree/Diameter%20of%20Binary%20Tree/) | Easy |
 
 </details>
 
