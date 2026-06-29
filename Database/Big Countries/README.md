@@ -5,8 +5,9 @@
 
 ## Problem Statement
 
-Table: World
+<p>Table: <code>World</code></p>
 
+<pre>
 +-------------+---------+
 | Column Name | Type    |
 +-------------+---------+
@@ -18,27 +19,28 @@ Table: World
 +-------------+---------+
 name is the primary key (column with unique values) for this table.
 Each row of this table gives information about the name of a country, the continent to which it belongs, its area, the population, and its GDP value.
+</pre>
 
+<p>&nbsp;</p>
 
- 
+<p>A country is <strong>big</strong> if:</p>
 
-A country is big if:
+<ul>
+	<li>it has an area of at least&nbsp;three million (i.e., <code>3000000 km<sup>2</sup></code>), or</li>
+	<li>it has a population of at least&nbsp;twenty-five million (i.e., <code>25000000</code>).</li>
+</ul>
 
+<p>Write a solution to find the name, population, and area of the <strong>big countries</strong>.</p>
 
-	it has an area of at least three million (i.e., 3000000 km2), or
-	it has a population of at least twenty-five million (i.e., 25000000).
+<p>Return the result table in <strong>any order</strong>.</p>
 
+<p>The result format is in the following example.</p>
 
-Write a solution to find the name, population, and area of the big countries.
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
 
-Return the result table in any order.
-
-The result format is in the following example.
-
- 
-Example 1:
-
-Input: 
+<pre>
+<strong>Input:</strong> 
 World table:
 +-------------+-----------+---------+------------+--------------+
 | name        | continent | area    | population | gdp          |
@@ -49,36 +51,15 @@ World table:
 | Andorra     | Europe    | 468     | 78115      | 3712000000   |
 | Angola      | Africa    | 1246700 | 20609294   | 100990000000 |
 +-------------+-----------+---------+------------+--------------+
-Output: 
+<strong>Output:</strong> 
 +-------------+------------+---------+
 | name        | population | area    |
 +-------------+------------+---------+
 | Afghanistan | 25500100   | 652230  |
 | Algeria     | 37100000   | 2381741 |
 +-------------+------------+---------+
+</pre>
 
-## Examples
-
-```
-Input: 
-World table:
-+-------------+-----------+---------+------------+--------------+
-| name        | continent | area    | population | gdp          |
-+-------------+-----------+---------+------------+--------------+
-| Afghanistan | Asia      | 652230  | 25500100   | 20343000000  |
-| Albania     | Europe    | 28748   | 2831741    | 12960000000  |
-| Algeria     | Africa    | 2381741 | 37100000   | 188681000000 |
-| Andorra     | Europe    | 468     | 78115      | 3712000000   |
-| Angola      | Africa    | 1246700 | 20609294   | 100990000000 |
-+-------------+-----------+---------+------------+--------------+
-Output: 
-+-------------+------------+---------+
-| name        | population | area    |
-+-------------+------------+---------+
-| Afghanistan | 25500100   | 652230  |
-| Algeria     | 37100000   | 2381741 |
-+-------------+------------+---------+
-```
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
