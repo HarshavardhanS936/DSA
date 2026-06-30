@@ -42,6 +42,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 511 | [Game Play Analysis I](./Database/Game%20Play%20Analysis%20I/) | Easy |
 | 595 | [Big Countries](./Database/Big%20Countries/) | Easy |
 | 610 | [Triangle Judgement](./Database/Triangle%20Judgement/) | Easy |
+| 1148 | [Article Views I](./Database/Article%20Views%20I/) | Easy |
 | 1527 | [Patients With a Condition](./Database/Patients%20With%20a%20Condition/) | Easy |
 | 1757 | [Recyclable and Low Fat Products](./Database/Recyclable%20and%20Low%20Fat%20Products/) | Easy |
 | 1873 | [Calculate Special Bonus](./Database/Calculate%20Special%20Bonus/) | Easy |
