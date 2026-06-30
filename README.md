@@ -39,6 +39,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 595 | [Big Countries](./Database/Big%20Countries/) | Easy |
 | 1757 | [Recyclable and Low Fat Products](./Database/Recyclable%20and%20Low%20Fat%20Products/) | Easy |
 | 1873 | [Calculate Special Bonus](./Database/Calculate%20Special%20Bonus/) | Easy |
+| 1978 | [Employees Whose Manager Left the Company](./Database/Employees%20Whose%20Manager%20Left%20the%20Company/) | Easy |
 
 </details>
 
