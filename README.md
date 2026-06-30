@@ -37,6 +37,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 182 | [Duplicate Emails](./Database/Duplicate%20Emails/) | Easy |
 | 595 | [Big Countries](./Database/Big%20Countries/) | Easy |
 | 610 | [Triangle Judgement](./Database/Triangle%20Judgement/) | Easy |
 | 1527 | [Patients With a Condition](./Database/Patients%20With%20a%20Condition/) | Easy |
