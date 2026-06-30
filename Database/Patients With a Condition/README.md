@@ -5,9 +5,8 @@
 
 ## Problem Statement
 
-<p>Table: <code>Patients</code></p>
+Table: Patients
 
-<pre>
 +--------------+---------+
 | Column Name  | Type    |
 +--------------+---------+
@@ -16,23 +15,22 @@
 | conditions   | varchar |
 +--------------+---------+
 patient_id is the primary key (column with unique values) for this table.
-&#39;conditions&#39; contains 0 or more code separated by spaces. 
+'conditions' contains 0 or more code separated by spaces. 
 This table contains information of the patients in the hospital.
-</pre>
 
-<p>&nbsp;</p>
 
-<p>Write a solution to find the patient_id, patient_name, and conditions of the patients who have Type I Diabetes. Type I Diabetes always starts with <code>DIAB1</code> prefix.</p>
+ 
 
-<p>Return the result table in <strong>any order</strong>.</p>
+Write a solution to find the patient_id, patient_name, and conditions of the patients who have Type I Diabetes. Type I Diabetes always starts with DIAB1 prefix.
 
-<p>The&nbsp;result format is in the following example.</p>
+Return the result table in any order.
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+The result format is in the following example.
 
-<pre>
-<strong>Input:</strong> 
+ 
+Example 1:
+
+Input: 
 Patients table:
 +------------+--------------+--------------+
 | patient_id | patient_name | conditions   |
@@ -43,16 +41,38 @@ Patients table:
 | 4          | George       | ACNE DIAB100 |
 | 5          | Alain        | DIAB201      |
 +------------+--------------+--------------+
-<strong>Output:</strong> 
+Output: 
 +------------+--------------+--------------+
 | patient_id | patient_name | conditions   |
 +------------+--------------+--------------+
 | 3          | Bob          | DIAB100 MYOP |
 | 4          | George       | ACNE DIAB100 | 
 +------------+--------------+--------------+
-<strong>Explanation:</strong> Bob and George both have a condition that starts with DIAB1.
-</pre>
+Explanation: Bob and George both have a condition that starts with DIAB1.
 
+## Examples
+
+```
+Input: 
+Patients table:
++------------+--------------+--------------+
+| patient_id | patient_name | conditions   |
++------------+--------------+--------------+
+| 1          | Daniel       | YFEV COUGH   |
+| 2          | Alice        |              |
+| 3          | Bob          | DIAB100 MYOP |
+| 4          | George       | ACNE DIAB100 |
+| 5          | Alain        | DIAB201      |
++------------+--------------+--------------+
+Output: 
++------------+--------------+--------------+
+| patient_id | patient_name | conditions   |
++------------+--------------+--------------+
+| 3          | Bob          | DIAB100 MYOP |
+| 4          | George       | ACNE DIAB100 | 
++------------+--------------+--------------+
+Explanation: Bob and George both have a condition that starts with DIAB1.
+```
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
