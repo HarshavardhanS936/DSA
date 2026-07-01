@@ -1,17 +1,22 @@
-1class Solution {
-2    public List<List<Integer>> subsets(int[] nums) {
-3        List<List<Integer>> ans=new ArrayList<>();
-4        sub(0,nums,ans,new ArrayList<>());
-5        return ans;
-6    }
-7    public static void sub(int index,int nums[],List<List<Integer>> ans,List<Integer> temp){
-8        if(index==nums.length){
-9            ans.add(new ArrayList<>(temp));
-10            return;
-11        }
-12        temp.add(nums[index]);
-13        sub(index+1,nums,ans,temp);
-14        temp.remove(temp.size()-1);
-15        sub(index+1,nums,ans,temp);
-16    }
-17}
+1/**
+2 * Definition for singly-linked list.
+3 * public class ListNode {
+4 *     int val;
+5 *     ListNode next;
+6 *     ListNode() {}
+7 *     ListNode(int val) { this.val = val; }
+8 *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+9 * }
+10 */
+11class Solution {
+12    public int numComponents(ListNode head, int[] nums) {
+13        HashSet<Integer> set=new HashSet<>();
+14        int a=0;
+15        for(int x:nums)set.add(x);
+16        while(head!=null){
+17            if(set.contains(head.val) && (head.next==null || !set.contains(head.next.val)))a++;
+18            head=head.next;
+19        }
+20        return a;
+21    }
+22}

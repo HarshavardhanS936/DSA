@@ -60,7 +60,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| — | [Binary Tree Level Order Traversal](./General/Binary%20Tree%20Level%20Order%20Traversal/) | Medium |
+| — | [Unknown Problem](./General/Unknown%20Problem/) | Medium |
 
 </details>
 
