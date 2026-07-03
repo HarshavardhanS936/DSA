@@ -42,6 +42,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 176 | [Second Highest Salary](./Database/Second%20Highest%20Salary/) | Medium |
 | 182 | [Duplicate Emails](./Database/Duplicate%20Emails/) | Easy |
 | 511 | [Game Play Analysis I](./Database/Game%20Play%20Analysis%20I/) | Easy |
+| 584 | [Find Customer Referee](./Database/Find%20Customer%20Referee/) | Easy |
 | 595 | [Big Countries](./Database/Big%20Countries/) | Easy |
 | 610 | [Triangle Judgement](./Database/Triangle%20Judgement/) | Easy |
 | 1148 | [Article Views I](./Database/Article%20Views%20I/) | Easy |
