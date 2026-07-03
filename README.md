@@ -45,6 +45,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 584 | [Find Customer Referee](./Database/Find%20Customer%20Referee/) | Easy |
 | 595 | [Big Countries](./Database/Big%20Countries/) | Easy |
 | 610 | [Triangle Judgement](./Database/Triangle%20Judgement/) | Easy |
+| 1068 | [Product Sales Analysis I](./Database/Product%20Sales%20Analysis%20I/) | Easy |
 | 1148 | [Article Views I](./Database/Article%20Views%20I/) | Easy |
 | 1280 | [Students and Examinations](./Database/Students%20and%20Examinations/) | Easy |
 | 1378 | [Replace Employee ID With The Unique Identifier](./Database/Replace%20Employee%20ID%20With%20The%20Unique%20Identifier/) | Easy |
