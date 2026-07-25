@@ -19,6 +19,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 4 | [Median of Two Sorted Arrays](./Array/Median%20of%20Two%20Sorted%20Arrays/) | Medium |
+| 14 | [Longest Common Prefix](./Array/Longest%20Common%20Prefix/) | Easy |
 
 </details>
 
