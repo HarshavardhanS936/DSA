@@ -39,6 +39,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1211 | [Queries Quality and Percentage](./Database/Queries%20Quality%20and%20Percentage/) | Easy |
 | 1280 | [Students and Examinations](./Database/Students%20and%20Examinations/) | Easy |
 | 1661 | [Average Time of Process per Machine](./Database/Average%20Time%20of%20Process%20per%20Machine/) | Easy |
+| 1934 | [Confirmation Rate](./Database/Confirmation%20Rate/) | Medium |
 
 </details>
 
