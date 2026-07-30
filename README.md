@@ -20,6 +20,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 4 | [Median of Two Sorted Arrays](./Array/Median%20of%20Two%20Sorted%20Arrays/) | Medium |
 | 14 | [Longest Common Prefix](./Array/Longest%20Common%20Prefix/) | Easy |
+| 49 | [Group Anagrams](./Array/Group%20Anagrams/) | Medium |
 
 </details>
 
