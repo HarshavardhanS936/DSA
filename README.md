@@ -48,7 +48,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| — | [Average Selling Price](./General/Average%20Selling%20Price/) | Medium |
+| — | [Excel Sheet Column Title](./General/Excel%20Sheet%20Column%20Title/) | Medium |
 
 </details>
 
