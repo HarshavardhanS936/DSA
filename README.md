@@ -48,7 +48,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| — | [Excel Sheet Column Title](./General/Excel%20Sheet%20Column%20Title/) | Medium |
+| — | [Group Anagrams](./General/Group%20Anagrams/) | Medium |
 
 </details>
 
