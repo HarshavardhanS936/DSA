@@ -67,6 +67,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### String
+<details>
+<summary>Click to expand String problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 32 | [Longest Valid Parentheses](./String/Longest%20Valid%20Parentheses/) | Hard |
+
+</details>
+
+
 <p align="center">
 Building Technical Excellence Through Consistent Problem Solving.
 </p>
