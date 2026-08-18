@@ -75,6 +75,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 32 | [Longest Valid Parentheses](./String/Longest%20Valid%20Parentheses/) | Hard |
+| 72 | [Edit Distance](./String/Edit%20Distance/) | Medium |
 
 </details>
 
