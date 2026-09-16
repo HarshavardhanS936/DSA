@@ -56,6 +56,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Hash Table
+<details>
+<summary>Click to expand Hash Table problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
+
+</details>
+
+
 ### Math
 <details>
 <summary>Click to expand Math problems</summary>
