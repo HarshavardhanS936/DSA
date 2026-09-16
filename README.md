@@ -63,6 +63,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
+| 76 | [Minimum Window Substring](./Hash%20Table/Minimum%20Window%20Substring/) | Hard |
 
 </details>
 
