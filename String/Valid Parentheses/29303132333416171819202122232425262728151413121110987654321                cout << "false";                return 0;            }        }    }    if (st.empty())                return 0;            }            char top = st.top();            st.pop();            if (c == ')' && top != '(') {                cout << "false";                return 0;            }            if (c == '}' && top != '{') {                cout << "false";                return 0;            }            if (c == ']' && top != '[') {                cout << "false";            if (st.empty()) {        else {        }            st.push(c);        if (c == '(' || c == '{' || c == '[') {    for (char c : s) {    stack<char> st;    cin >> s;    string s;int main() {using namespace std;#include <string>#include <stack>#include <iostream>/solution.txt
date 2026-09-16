@@ -1,0 +1,34 @@
+                cout << "false";
+                return 0;
+            }
+        }
+    }
+    if (st.empty())
+                return 0;
+            }
+            char top = st.top();
+            st.pop();
+            if (c == ')' && top != '(') {
+                cout << "false";
+                return 0;
+            }
+            if (c == '}' && top != '{') {
+                cout << "false";
+                return 0;
+            }
+            if (c == ']' && top != '[') {
+                cout << "false";
+            if (st.empty()) {
+        else {
+        }
+            st.push(c);
+        if (c == '(' || c == '{' || c == '[') {
+    for (char c : s) {
+    stack<char> st;
+    cin >> s;
+    string s;
+int main() {
+using namespace std;
+#include <string>
+#include <stack>
+#include <iostream>
