@@ -33,6 +33,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 570 | [Managers with at Least 5 Direct Reports](./Database/Managers%20with%20at%20Least%205%20Direct%20Reports/) | Medium |
 | 577 | [Employee Bonus](./Database/Employee%20Bonus/) | Easy |
+| 584 | [Find Customer Referee](./Database/Find%20Customer%20Referee/) | Easy |
 | 620 | [Not Boring Movies](./Database/Not%20Boring%20Movies/) | Easy |
 | 1068 | [Product Sales Analysis I](./Database/Product%20Sales%20Analysis%20I/) | Easy |
 | 1075 | [Project Employees I](./Database/Project%20Employees%20I/) | Easy |
